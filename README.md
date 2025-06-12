@@ -66,7 +66,7 @@ The file `PIZZA SALES SQL QUERIES.docx` contains:
 * Large and extra-large pizzas generate the most revenue.
 * Veggie and Classic categories are more popular compared to others.
 * Sales dip during early mornings and weekdays.
-
+* 
 ## ✅ Conclusion
 
 This analysis provides a detailed understanding of customer behavior and product performance. It can be used to guide promotional strategies, adjust stock levels, and align operational planning with demand patterns.
