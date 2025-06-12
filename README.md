@@ -42,11 +42,9 @@ The dataset `pizza_sales.csv` includes the following columns:
 
 ## 📊 Tools Used
 
-* **Python**
-* **Pandas**
-* **Matplotlib**
-* **Seaborn**
+* **MS SQL Server**
 * **Microsoft Excel**
+* **Microsoft Word**
 
 
 ## 📘 SQL Queries Document
