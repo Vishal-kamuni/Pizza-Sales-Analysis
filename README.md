@@ -48,6 +48,17 @@ The dataset `pizza_sales.csv` includes the following columns:
 * **Seaborn**
 * **Microsoft Excel**
 
+
+## 📘 SQL Queries Document
+
+The file `PIZZA SALES SQL QUERIES.docx` contains:
+
+* Revenue and quantity analysis queries
+* Best-selling and least-selling pizza queries
+* Time-based breakdown (daily, monthly, hourly)
+* Category and size-specific insights
+* Join queries for building BI dashboards
+
 ## 📈 Key Insights
 
 * Certain pizza types consistently outperform others in both quantity and revenue.
@@ -64,6 +75,7 @@ This analysis provides a detailed understanding of customer behavior and product
 
 ```bash
 📦pizza-sales-analysis/
+ ┣ 📘 PIZZA SALES SQL QUERIES.docx
  ┣ 📊 pizza_sales.csv
  ┣ 📓 pizza_sales_analysis.ipynb
  ┗ 📄 README.md
